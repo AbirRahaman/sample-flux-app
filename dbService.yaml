@@ -4,6 +4,6 @@ metadata:
   name: sample
 spec:
   selector:
-    app: db
+    app: voting-app
   ports:
     - port: 5000
