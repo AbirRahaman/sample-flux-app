@@ -7,3 +7,4 @@ spec:
     app: voting-app
   ports:
     - port: 5000
+
